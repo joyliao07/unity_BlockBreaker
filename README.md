@@ -1,5 +1,7 @@
 # Unity2D Game: BlockBreaker
-<img src="https://github.com/joyliao07/BlockBreaker2D/blob/main/assets/blockBreaker.png" alt="blockBreaker" width="650">
+## Deployed: https://joyliao07.github.io/unity_BlockBreaker/BlockBreaker2DWebGL/index.html
+
+<img src="https://github.com/joyliao07/unity_BlockBreaker/blob/main/assets/blockBreaker.png" alt="blockBreaker" width="650">
 
 ## About BlockBreaker
 
@@ -9,7 +11,7 @@ Once the ball is launched by clicking the left key of the mouse, the player's go
 
 There are currently two levels in the game. After completing each level, the player will receive fireworks and an "Awesome!" cheers.
 
-<img src="https://github.com/joyliao07/BlockBreaker2D/blob/main/assets/fireworks.png" alt="fireWorks" width="650">
+<img src="https://github.com/joyliao07/unity_BlockBreaker/blob/main/assets/fireworks.png" alt="fireWorks" width="650">
 
 ## Hardware Requirement to Play
 
@@ -19,7 +21,7 @@ You will only need a modern Internet browser and a mouse to play the game.
 
 ## Play on the Internet
 
-BlockBreaker is deployed on GitHub page. To play from the Internet browser, go to...
+BlockBreaker is deployed on GitHub page. To play from the Internet browser, go to https://joyliao07.github.io/unity_BlockBreaker/BlockBreaker2DWebGL/index.html
 
 
 
