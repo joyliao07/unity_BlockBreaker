@@ -1,0 +1,13 @@
+{
+"companyName": "BlockBreaker Manufacturer",
+"productName": "The Ultimate Block Breaker",
+"dataUrl": "BlockBreaker2DWebGL.data.unityweb",
+"wasmCodeUrl": "BlockBreaker2DWebGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "BlockBreaker2DWebGL.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}

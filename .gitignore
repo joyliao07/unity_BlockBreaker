@@ -1,0 +1,22 @@
+# Build and Release Folders
+src/bin-debug/
+src/bin-release/
+src/[Oo]bj/
+src/[Bb]in/
+
+# Other files and folders
+src/.settings/
+src/.vs/
+src/Logs/
+src/Library/
+src/Temp/
+
+# Executables
+src/*.swf
+src/*.air
+src/*.ipa
+src/*.apk
+
+# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
+# should NOT be excluded as they contain compiler settings and other important
+# information for Eclipse / Flash Builder.
