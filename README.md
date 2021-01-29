@@ -1,5 +1,5 @@
 # Unity2D Game: BlockBreaker
-## Deployed: https://joyliao07.github.io/unity_BlockBreaker/BlockBreaker2DWebGL/index.html
+### Deployed: https://joyliao07.github.io/unity_BlockBreaker/BlockBreaker2DWebGL/index.html
 
 <img src="https://github.com/joyliao07/unity_BlockBreaker/blob/main/assets/blockBreaker.png" alt="blockBreaker" width="650">
 
