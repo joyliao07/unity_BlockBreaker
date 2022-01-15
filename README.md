@@ -1,5 +1,10 @@
 # Unity2D Game: BlockBreaker
-### Deployed: https://joyliao07.github.io/unity_BlockBreaker/BlockBreaker2DWebGL/index.html
+
+BlockBuster 2D is a simple game with visual and sound effects. I built it as a fun project to explore  game development with Unity. You can play the game on your browser!
+
+**Tech Stack:** C#, Unity 2D
+
+Please visit deployed website: https://joyliao07.github.io/unity_BlockBreaker/BlockBreaker2DWebGL/index.html
 
 <img src="https://github.com/joyliao07/unity_BlockBreaker/blob/main/assets/blockBreaker.png" alt="blockBreaker" width="650">
 
